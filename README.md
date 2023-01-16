@@ -1,8 +1,12 @@
 # Brick-Breaker-Game
 
+### Task:
+
+Making a fully functional and completed brick-breaker game.
+
 ### Purpose:
 
-Making a brick-breaker game from scratch.
+Improving my software development, design, and game development skills while building a fun game in the process.
 
 ### Languages:
 
@@ -14,7 +18,7 @@ Github Pages
 
 ### How To Play:
 
-Left and Right Arrow Keys.
+Move your Left and Right Arrow Keys to catch the ball before it drops and break all the bricks to reach the next level. There are 10 levels in total. If you manage to beat the tenth level then you have completed the game!
 
 ### Live Demo:
 
