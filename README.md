@@ -22,7 +22,13 @@ Move your Left and Right Arrow Keys to catch the ball before it drops and break 
 
 ### Live Demo:
 
+https://mtemkit.github.io/Brick-Breaker-Game/ 
 
+Early stages of development:
+
+<p align="left">
+  <img src="images/brick-breaker-game.png" width="800" height="1275" title="Cover Letter Generator Page">
+</p>
 
 ### Next Steps / Future Changes:
 
