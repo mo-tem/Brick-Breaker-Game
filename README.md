@@ -27,7 +27,7 @@ https://mtemkit.github.io/Brick-Breaker-Game/
 Early stages of development:
 
 <p align="left">
-  <img src="images/brick-breaker-game.png" width="800" height="800" title="Cover Letter Generator Page">
+  <img src="images/brick-breaker-game.png" width="800" height="600" title="Cover Letter Generator Page">
 </p>
 
 ### Next Steps / Future Changes:
